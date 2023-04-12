@@ -1,5 +1,6 @@
 ## Encoder-Servo-Control-and-Solenoid-Valve-control
 ![alt text](https://github.com/T-Basic/Encoder-Servo-Control-and-Solenoid-Valve-control/blob/main/Pneumatic%20Setup.JPG)
+
 Out of date setup - missing Mechanical Rotary Encoder, Pressure Differential Sensor, and 9 g servomotor linear actuator
 
 #### Description:
